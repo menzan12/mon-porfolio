@@ -87,8 +87,8 @@ export default function About() {
             </div>
 
             <a
-              href="../assets/Kouadio-Menzan-CV.pdf"
-              download="Kouadio-Menzan-CV.pdf"
+              href="/Cv Menzan Abdoul Kader.pdf"
+              download="Cv Menzan Abdoul Kader.pdf"
               className="inline-flex items-center gap-2 px-6 py-3 bg-violet-600 hover:bg-violet-700 text-white font-semibold rounded-xl transition-all duration-200 shadow-lg shadow-violet-500/25 hover:-translate-y-0.5"
             >
               <Download size={16} />
